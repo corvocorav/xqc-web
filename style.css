@@ -49,8 +49,8 @@
 #welcome-txt
 {
     position: absolute;
-    left: 50%;
-    margin-left: -370px;
+    left: 48%;
+    margin-left: -220px;
     top: 20%;
     font-size: 150px;
     text-align: center;
@@ -65,8 +65,8 @@
     top: 50%;
     color: #a9ece1;
     font-size: 140px;
-    left: 40%;
-    margin-left: -220px;
+    left: 50%;
+    margin-left: -100px;
     white-space: nowrap;
     
 }

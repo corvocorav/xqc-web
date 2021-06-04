@@ -1,0 +1,80 @@
+#topbar
+{
+    background-color:#33393A;
+    height: 250px;
+    width: 200%;
+    
+  
+    
+    
+}
+
+#topbar img
+{
+    width: 600px;
+    float: left;
+    margin-left: -4%;
+    margin-top: -13%;
+}
+
+#blur-container
+{
+    height: 500px;
+    background-color: #239E89;
+    position: relative;
+    top: 94%;
+}
+
+#blur
+{
+    position: relative;
+    height: 500px;
+    left: -10%;
+    filter: blur(100px);
+    background-color: #239E89;
+    top: 60%;
+}
+
+#back
+
+{
+    position: absolute;
+    top: 12%;
+    left: -62%;
+    width: 3000px;
+    filter: blur(20px);
+
+}
+
+#welcome-txt
+{
+    position: absolute;
+    left: 22%;
+    top: 20%;
+    font-size: 150px;
+    text-align: center;
+    font-variant: small-caps;
+    color: white;
+    white-space: nowrap;
+}
+
+#enjoy-txt
+{
+    position: absolute;
+    top: 50%;
+    color: #a9ece1;
+    font-size: 140px;
+    left: 35%;
+    white-space: nowrap;
+    
+}
+
+
+body
+{
+    padding: 0;
+    margin: 0;
+    background-color: #666666;
+     overflow: hidden;
+
+}

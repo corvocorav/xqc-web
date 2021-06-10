@@ -17,20 +17,45 @@
     margin-top: -13%;
 }
 
-#top-blur-img
+#backntop
+{
+    position: relative;
+    width: 100%;
+    left: -12%;
+    top: -400%;
+}
 
+#jungle
+{   
+    position: relative;
+    top: 1300%;
+    width: 100%;
+
+}
+
+#jungle2
 {
     width: 100%;
     position: relative;
-    top: -1150%;
+    top: -468%;
 }
 
-#body-blur
+
+#jungle3
 {
-    position: relative;
-    top: -1100%;
     width: 100%;
+    position: relative;
+    top: -470%;
 }
+
+
+#jungle4
+{
+    width: 100%;
+    position: relative;
+    top: -473%;
+}
+
 
 #container
 {
@@ -42,16 +67,6 @@
 }
 
 
-#back
-
-{
-    position: relative;
-    top: 120%;
-    left: -18%;
-    width: 110%;
-    filter: blur(20px);
-
-}
 
 
 body

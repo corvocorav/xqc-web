@@ -9,6 +9,12 @@
     
 }
 
+img
+{
+    margin: 0;
+    padding: 0;
+}
+
 #pfp-img
 {
     width: 600px;
@@ -56,6 +62,14 @@
     top: -473%;
 }
 
+#jungle5
+{
+    width: 100%;
+    position: relative;
+    top: -476%;
+}
+
+
 
 #container
 {
@@ -63,11 +77,81 @@
     background-color: #239E89;
     position: relative;
     top: 94%;
-    
+}
+ul
+{
+
+    top: 250%;
+    position: absolute;
+    width: 120%;
 }
 
 
+button
+{
+    position: relative;
+    width: 700px;
+    height: 450px;
+    background-position: center;
+    border-radius: 50px 50px;
+    
+}
 
+#twitch-btn
+{
+    margin-left: 4%;
+    background-image: url("twitch.png");
+
+  
+}
+
+#youtube-btn
+{
+    margin-top: 20%;
+    left: 60%;
+    background-image: url("youtube.png");
+
+}
+
+#discord-btn
+{
+    margin-top: 20%;
+
+    margin-left: 4%;
+    background-image: url("discord.png");
+
+  
+}
+
+#reddit-btn
+{
+    margin-top: 20%;
+    left: 60%;
+    background-image: url("reddit.png");
+
+}
+
+#instagram-btn
+{
+    margin-top: 20%;
+
+    margin-left: 4%;
+    background-image: url("instagram.png");
+}
+
+#facebook-btn
+{
+    margin-top: 20%;
+    left: 60%;
+    background-image: url("facebook.png");
+
+}
+
+button:active 
+{
+    filter: blur(5px);
+    border-radius: 80px;
+}
 
 body
 {
@@ -77,7 +161,12 @@ body
     /* overflow: hidden;*/
     overflow-x: hidden;
 
+
 }
+
+html, body{ 
+    width:100%;
+  }
 
 
   

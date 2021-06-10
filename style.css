@@ -108,7 +108,7 @@ button
 #youtube-btn
 {
     margin-top: 20%;
-    left: 60%;
+    left: 55%;
     background-image: url("youtube.png");
 
 }
@@ -126,7 +126,7 @@ button
 #reddit-btn
 {
     margin-top: 20%;
-    left: 60%;
+    left: 55%;
     background-image: url("reddit.png");
 
 }
@@ -142,7 +142,7 @@ button
 #facebook-btn
 {
     margin-top: 20%;
-    left: 60%;
+    left: 55%;
     background-image: url("facebook.png");
 
 }

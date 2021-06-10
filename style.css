@@ -17,16 +17,24 @@
     margin-top: -13%;
 }
 
-#blur-img
+#top-blur-img
+
 {
     width: 100%;
     position: relative;
     top: -1150%;
 }
 
+#body-blur
+{
+    position: relative;
+    top: -1100%;
+    width: 100%;
+}
+
 #container
 {
-    height: 500px;
+    height: 300px;
     background-color: #239E89;
     position: relative;
     top: 94%;
@@ -38,9 +46,9 @@
 
 {
     position: relative;
-    top: 100%;
-    left: -30%;
-    width: 150%;
+    top: 120%;
+    left: -18%;
+    width: 110%;
     filter: blur(20px);
 
 }
@@ -50,7 +58,11 @@ body
 {
     padding: 0;
     margin: 0;
-    background-color: #666666;
-     overflow: hidden;
+    background-color: #05252a;
+    /* overflow: hidden;*/
+    overflow-x: hidden;
 
 }
+
+
+  
